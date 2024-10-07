@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #Filtros  avanzados
 
@@ -15,4 +15,4 @@ El hash de mi Usuario es: $(sudo grep $(whoami) /etc/shadow |awk -F ':' '{print 
 
 La URL de mi repo es: $(git remote get-url origin)
 
-EOF 
+EOF

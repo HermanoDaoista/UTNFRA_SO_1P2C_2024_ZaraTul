@@ -1,3 +1,6 @@
+#!/bin/bash
+
+cat << EOF > README.md
 
 Nombre: Roge
 
@@ -7,3 +10,4 @@ Legajo: 11258
 
 Division: 315 
 
+EOF

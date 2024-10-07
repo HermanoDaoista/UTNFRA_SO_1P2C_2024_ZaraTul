@@ -1,0 +1,9 @@
+
+Mi ip publica es: 181.168.78.98
+
+Mi usuario es: zaratul
+
+El hash de mi Usuario es: $y$j9T$lsF19pCwiPqbre6k9Dy/K0$VuWwO7qV.wVErKzpomzfDMHeX4/QyysnqGj1XS6/DcA
+
+La URL de mi repo es: git@github.com:HermanoDaoista/UTNFRA_SO_1P2C_2024_ZaraTul.git
+
